@@ -1,0 +1,117 @@
+
+2021-10-24 16:09:40,409;INFO;AplicaciÃ³n iniciada
+2021-10-24 16:09:40,483;INFO;CreaciÃ³n de la base de datos
+2021-10-24 16:10:37,861;INFO;AplicaciÃ³n iniciada
+2021-10-24 16:10:37,864;INFO;CreaciÃ³n de la base de datos
+2021-10-24 16:12:07,929;INFO;AplicaciÃ³n iniciada
+2021-10-24 16:12:16,612;INFO;AplicaciÃ³n cerrada
+2021-10-24 16:12:23,009;INFO;AplicaciÃ³n iniciada
+2021-10-24 16:12:25,306;WARNING;No se ha definido ningÃºn tÃ©rmino de bÃºsqueda
+2021-10-24 16:12:30,130;WARNING;No se ha definido ningÃºn tÃ©rmino de bÃºsqueda
+2021-10-24 16:12:51,720;INFO;BÃºsqueda de ardilla en la RAE
+2021-10-24 16:12:52,018;INFO;BÃºsqueda de ardilla en DuckDuckGo
+2021-10-24 16:12:52,885;INFO;BÃºsqueda de ardilla en Enciclonet
+2021-10-24 16:12:53,376;INFO;BÃºsqueda de ardilla en WordReference
+2021-10-24 16:12:57,540;INFO;Resultados de ardilla incorporados en la base de datos
+2021-10-24 16:13:33,899;INFO;BÃºsqueda de ardilla realizada previamente
+2021-10-24 16:13:36,500;INFO;BÃºsqueda ardilla eliminada de la base de datos
+2021-10-24 16:13:36,504;INFO;BÃºsqueda previa eliminada
+2021-10-24 16:14:37,180;INFO;BÃºsqueda de ardilla en la RAE
+2021-10-24 16:14:37,458;INFO;BÃºsqueda de ardilla en DuckDuckGo
+2021-10-24 16:14:37,993;INFO;BÃºsqueda de ardilla en Enciclonet
+2021-10-24 16:14:38,400;INFO;BÃºsqueda de ardilla en WordReference
+2021-10-24 16:14:42,474;INFO;Resultados de ardilla incorporados en la base de datos
+2021-10-24 16:14:56,345;INFO;AplicaciÃ³n cerrada
+2021-10-24 16:15:18,435;INFO;AplicaciÃ³n iniciada
+2021-10-24 16:15:24,745;INFO;BÃºsqueda de ardilla realizada previamente
+2021-10-24 16:15:29,899;INFO;BÃºsqueda ardilla eliminada de la base de datos
+2021-10-24 16:15:29,900;INFO;BÃºsqueda previa eliminada
+2021-10-24 16:15:39,745;INFO;BÃºsqueda de perro en la RAE
+2021-10-24 16:15:40,020;INFO;BÃºsqueda de perro en DuckDuckGo
+2021-10-24 16:15:40,444;INFO;BÃºsqueda de perro en Enciclonet
+2021-10-24 16:15:40,956;INFO;BÃºsqueda de perro en WordReference
+2021-10-24 16:15:45,344;INFO;Resultados de perro incorporados en la base de datos
+2021-10-24 16:16:13,171;INFO;BÃºsqueda de wwwwwwwwwww en la RAE
+2021-10-24 16:16:13,459;INFO;BÃºsqueda de wwwwwwwwwww en DuckDuckGo
+2021-10-24 16:16:13,965;INFO;BÃºsqueda de wwwwwwwwwww en Enciclonet
+2021-10-24 16:16:14,400;INFO;BÃºsqueda de wwwwwwwwwww en WordReference
+2021-10-24 16:16:14,432;WARNING;El tÃ©rmino wwwwwwwwwww no ha ofrecido ningÃºn resultado
+2021-10-24 16:16:55,787;INFO;BÃºsqueda de gato en la RAE
+2021-10-24 16:16:56,061;INFO;BÃºsqueda de gato en DuckDuckGo
+2021-10-24 16:16:56,612;INFO;BÃºsqueda de gato en Enciclonet
+2021-10-24 16:16:57,068;INFO;BÃºsqueda de gato en WordReference
+2021-10-24 16:17:02,644;INFO;Resultados de gato incorporados en la base de datos
+2021-10-24 16:17:34,817;INFO;AplicaciÃ³n cerrada
+2021-10-24 16:22:18,757;INFO;AplicaciÃ³n iniciada
+2021-10-24 16:22:23,189;INFO;BÃºsqueda de gato realizada previamente
+2021-10-24 16:22:29,295;INFO;BÃºsqueda gato eliminada de la base de datos
+2021-10-24 16:23:04,470;INFO;AplicaciÃ³n cerrada
+2021-10-24 16:27:49,507;INFO;AplicaciÃ³n iniciada
+2021-10-24 16:27:57,736;INFO;BÃºsqueda de noche en la RAE
+2021-10-24 16:27:58,031;INFO;BÃºsqueda de noche en DuckDuckGo
+2021-10-24 16:27:58,648;INFO;BÃºsqueda de noche en Enciclonet
+2021-10-24 16:27:59,083;INFO;BÃºsqueda de noche en WordReference
+2021-10-24 16:27:59,382;WARNING;Ha fallado el sistema de generaciÃ³n de PDF. Busca el siguiente archivo de texto: /home/pi/sabelotodo_borja_fajardo/busquedas/noche.txt
+2021-10-24 16:29:11,733;INFO;AplicaciÃ³n cerrada
+2021-10-24 16:29:22,353;INFO;AplicaciÃ³n iniciada
+2021-10-24 16:29:31,999;INFO;BÃºsqueda de diccionario en la RAE
+2021-10-24 16:29:32,261;INFO;BÃºsqueda de diccionario en DuckDuckGo
+2021-10-24 16:29:32,818;INFO;BÃºsqueda de diccionario en Enciclonet
+2021-10-24 16:29:33,227;INFO;BÃºsqueda de diccionario en WordReference
+2021-10-24 16:29:33,509;WARNING;Ha fallado el sistema de generaciÃ³n de PDF. Busca el siguiente archivo de texto: /home/pi/sabelotodo_borja_fajardo/busquedas/diccionario.txt
+2021-10-24 16:29:46,368;INFO;AplicaciÃ³n cerrada
+2021-10-24 16:33:11,921;INFO;AplicaciÃ³n iniciada
+2021-10-24 16:33:13,892;WARNING;No se ha definido ningÃºn tÃ©rmino de bÃºsqueda
+2021-10-24 16:33:14,725;WARNING;No se ha definido ningÃºn tÃ©rmino de bÃºsqueda
+2021-10-24 16:33:15,190;WARNING;No se ha definido ningÃºn tÃ©rmino de bÃºsqueda
+2021-10-24 16:33:17,335;INFO;AplicaciÃ³n cerrada
+2021-10-24 19:03:22,415;INFO;Aplicación iniciada
+2021-10-24 19:03:36,398;INFO;Búsqueda de vaca en la RAE
+2021-10-24 19:03:36,628;INFO;Búsqueda de vaca en DuckDuckGo
+2021-10-24 19:03:37,029;INFO;Búsqueda de vaca en Enciclonet
+2021-10-24 19:03:37,316;INFO;Búsqueda de vaca en WordReference
+2021-10-24 19:03:42,356;INFO;Resultados de vaca incorporados en la base de datos
+2021-10-24 19:04:12,168;INFO;Se ha generado un informe en PDF de la búsqueda en el directorio C:/Users/i_cop/Desktop/PROYECTO/sabelotodo_borja_fajardo/busquedas/vaca.pdf
+2021-10-24 19:04:44,175;INFO;Búsqueda de ornitorrinco en la RAE
+2021-10-24 19:04:44,424;INFO;Búsqueda de ornitorrinco en DuckDuckGo
+2021-10-24 19:04:44,803;INFO;Búsqueda de ornitorrinco en Enciclonet
+2021-10-24 19:04:45,093;INFO;Búsqueda de ornitorrinco en WordReference
+2021-10-24 19:04:49,039;INFO;Resultados de ornitorrinco incorporados en la base de datos
+2021-10-24 19:04:59,663;INFO;Se ha generado un informe en PDF de la búsqueda en el directorio C:/Users/i_cop/Desktop/PROYECTO/sabelotodo_borja_fajardo/busquedas/ornitorrinco.pdf
+2021-10-24 19:05:18,195;INFO;Aplicación cerrada
+2021-10-24 19:26:30,528;INFO;Aplicación iniciada
+2021-10-24 19:28:08,892;INFO;Aplicación cerrada
+2021-10-24 19:28:12,171;INFO;Aplicación iniciada
+2021-10-24 19:28:25,774;INFO;Aplicación cerrada
+2021-10-24 19:28:58,077;INFO;Aplicación iniciada
+2021-10-24 19:29:00,442;WARNING;No se ha definido ningún término de búsqueda
+2021-10-24 19:29:04,297;WARNING;No se ha definido ningún término de búsqueda
+2021-10-24 19:29:13,836;INFO;Búsqueda de piedra en la RAE
+2021-10-24 19:29:14,035;INFO;Búsqueda de piedra en DuckDuckGo
+2021-10-24 19:29:14,423;INFO;Búsqueda de piedra en Enciclonet
+2021-10-24 19:29:14,706;INFO;Búsqueda de piedra en WordReference
+2021-10-24 19:29:20,052;INFO;Resultados de piedra incorporados en la base de datos
+2021-10-24 19:29:28,271;WARNING;Ha fallado el sistema de generación de PDF. Busca el siguiente archivo de texto: C:\Users\i_cop\Desktop\PROYECTO\sabelotodo_borja_fajardo\busquedas\piedra.txt
+2021-10-24 19:29:33,808;INFO;Búsqueda de piedra realizada previamente
+2021-10-24 19:29:36,895;INFO;Búsqueda de piedra eliminada de la base de datos
+2021-10-24 19:29:43,380;INFO;Búsqueda de piedra en la RAE
+2021-10-24 19:29:43,822;INFO;Búsqueda de piedra en DuckDuckGo
+2021-10-24 19:29:44,480;INFO;Búsqueda de piedra en Enciclonet
+2021-10-24 19:29:44,995;INFO;Búsqueda de piedra en WordReference
+2021-10-24 19:29:50,682;INFO;Resultados de piedra incorporados en la base de datos
+2021-10-24 19:30:00,542;INFO;Se ha generado un informe en PDF de la búsqueda en el directorio C:/Users/i_cop/Desktop/PROYECTO/sabelotodo_borja_fajardo/busquedas/piedra.pdf
+2021-10-24 19:30:11,283;INFO;Búsqueda de 200 en la RAE
+2021-10-24 19:30:11,922;INFO;Búsqueda de 200 en DuckDuckGo
+2021-10-24 19:30:12,528;INFO;Búsqueda de 200 en Enciclonet
+2021-10-24 19:30:13,012;INFO;Búsqueda de 200 en WordReference
+2021-10-24 19:30:17,151;INFO;Resultados de 200 incorporados en la base de datos
+2021-10-24 19:30:25,393;INFO;Se ha generado un informe en PDF de la búsqueda en el directorio C:/Users/i_cop/Desktop/PROYECTO/sabelotodo_borja_fajardo/busquedas/200.pdf
+2021-10-24 19:30:54,833;INFO;Aplicación cerrada
+2021-10-24 19:59:52,975;INFO;Aplicación iniciada
+2021-10-24 20:00:17,035;INFO;Búsqueda de energia en la RAE
+2021-10-24 20:00:17,266;INFO;Búsqueda de energia en DuckDuckGo
+2021-10-24 20:00:17,733;INFO;Búsqueda de energia en Enciclonet
+2021-10-24 20:00:18,028;INFO;Búsqueda de energia en WordReference
+2021-10-24 20:00:22,092;INFO;Resultados de energia incorporados en la base de datos
+2021-10-24 20:00:39,837;INFO;Se ha generado un informe en PDF de la búsqueda en el directorio C:/Users/i_cop/Desktop/PROYECTO/sabelotodo_borja_fajardo/busquedas/energia.pdf
+2021-10-24 20:00:42,290;INFO;Aplicación cerrada
